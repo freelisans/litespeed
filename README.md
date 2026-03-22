@@ -1,10 +1,10 @@
 # free Litespeed license
  
-We’re giving away free LiteSpeed Web Server (LSWS) X Worker/Core licenses to all participants for one year
+We’re giving away free LiteSpeed Web Server (LSWS) X Worker/Core lisans for free!!
 
+WHITELIST YOUR SERVER IP IN OUR LISANSING SYSTEM FIRST:
 
-OPEN A ISSUE WITH SERVER IP, THEN ONLY WE ISSUE LICENSE FOR THE SERVER!!
-
+https://litespeedapi.license.eu.cc/whil.php
 
 INSTALL LITESPEED WITH TRIAL LICENSE FIRST.
 
