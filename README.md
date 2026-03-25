@@ -2,6 +2,11 @@
  
 We’re giving away free LiteSpeed Web Server (LSWS) X Worker/Core lisans for free!!
 
+
+this version only work on litespeed version 6.3.5 and above, below version not work
+
+
+
 WHITELIST YOUR SERVER IP IN OUR LISANSING SYSTEM FIRST:
 
 https://litespeedapi.license.eu.cc/whil.php
